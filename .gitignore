@@ -1,0 +1,5 @@
+# Platform-specific shenanigans
+*.DS_Store
+
+# Node.js
+node_modules
