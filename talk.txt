@@ -1,0 +1,11 @@
+- Title (hey, it's PostCSS!)
+- Define the problem (i.e. pre-processors)
+- Enter PostCSS (explain while a more granular and natural approach makes more sense)
+- There are other tools (Stylecow, Rewor), but whatevs
+- BTW, don't overdo it with plugins
+---
+- Show usage in node REPL
+---
+- Show usage in test page
+---
+- Show silly plugins
